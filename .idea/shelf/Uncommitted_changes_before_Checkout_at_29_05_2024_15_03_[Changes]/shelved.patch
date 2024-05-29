@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Git\r\n### Практическая работа №6\r\n### Задание 2.\r\n##### Изменено в ветке dev\r\nВыполнил:\r\n<Камышанова Екатерина Владмировна>\r\n<УВП-321>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 53389255954228b24394d22d61962715c6f34734)
++++ b/README.md	(date 1716982716625)
+@@ -1,7 +1,7 @@
+ # Git
+ ### Практическая работа №6
+ ### Задание 2.
+-##### Изменено в ветке dev
++##### Изменено в ветке dev2
+ Выполнил:
+ <Камышанова Екатерина Владмировна>
+ <УВП-321>
